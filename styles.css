@@ -1,0 +1,40 @@
+#links{
+    text-align: center;
+}
+#welcome{
+  background:linear-gradient(to right,red,white);
+  display:inline-block;
+  border-radius: 50%;
+  font-size: 20px;
+  color: gold;
+  padding:20px;
+  width: 800px;
+  margin: auto;
+  margin-left: 250px;
+  text-align: center;
+ 
+}
+.container1{
+    display:flex;
+    justify-content:space-evenly;
+}
+.container2{
+    display:flex;
+    justify-content:space-evenly;
+}
+.container3{
+    display:flex;
+    justify-content:space-evenly;
+}
+.container4{
+    display:flex;
+    justify-content:space-evenly;
+}
+.container5{
+    display:flex;
+    justify-content:space-evenly;
+}
+.container6{
+    display:flex;
+    justify-content:space-evenly;
+}
